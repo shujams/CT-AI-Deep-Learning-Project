@@ -1,0 +1,747 @@
+File name,COVID Positive?,Severity,Location,Age,Gender
+2020.03.18.20038125-p16-56-6.png,1,severe,"""Diamond Princess” Cruise Ship",75,M
+2020.03.18.20038125-p16-56-5.png,1,severe,"""Diamond Princess” Cruise Ship",75,M
+2020.03.18.20038125-p16-56-4.png,1,severe,"""Diamond Princess” Cruise Ship",75,M
+2020.03.18.20038125-p16-56-3.png,1,severe,"""Diamond Princess"" Cruise Ship",75,M
+2020.03.18.20038125-p16-56-2.png,1,severe,"""Diamond Princess” Cruise Ship",75,M
+2020.03.18.20038125-p16-56-1.png,1,severe,"""Diamond Princess” Cruise Ship",75,M
+2020.03.18.20038125-p15-54-6.png,1,asymptomatic ,"""Diamond Princess” Cruise Ship",76,M
+2020.03.18.20038125-p15-54-5.png,1,asymptomatic ,"""Diamond Princess” Cruise Ship",70,F
+2020.03.18.20038125-p15-54-4.png,1,asymptomatic ,"""Diamond Princess” Cruise Ship",73,F
+2020.03.18.20038125-p15-54-2.png,1,asymptomatic ,"""Diamond Princess” Cruise Ship",73,F
+2020.02.25.20027763-p15-53%1.png,1,mild,"Beijing, China",N/A,N/A
+2020.02.25.20027763-p15-53%0.png,1,mild,"Beijing, China",N/A,N/A
+2020.02.24.20027052-p8-73%3.png,1,critical,"Beijing, China",44,M
+2020.02.24.20027052-p8-73%2.png,1,severe,"Beijing, China",65,M
+2020.02.24.20027052-p8-73%1.png,1,mild,"Beijing, China",37,M
+2020.02.24.20027052-p8-73%0.png,1,light,"Beijing, China",44,F
+2020.02.10.20021584-p6-52%9.png,1,Absorption stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%8.png,1,Absorption stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%7.png,1,Consolidation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%6.png,1,Consolidation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%5.png,1,Consolidation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%4.png,1,Consolidation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%3.png,1,Early stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%2.png,1,Early stage ,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%15.png,1,Dissipation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%14.png,1,Dissipation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%13.png,1,Dissipation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%12.png,1,Dissipation stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%11.png,1,Absorption stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%10.png,1,Absorption stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%1.png,1,Early stage,"Beijing, China",50,M
+2020.02.10.20021584-p6-52%0.png,1,Early stage,"Beijing, China",50,M
+2020.03.04.20031047-p14-87%1.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p14-87%0.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%5.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%4.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%3.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%2.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%1.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.04.20031047-p13-84%0.png,1,severe,"Changsha, China.",N/A,N/A
+2020.03.13.20035212-p23-163.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-162.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-161.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-160.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-159.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-158.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-157.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-156.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-155.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-154.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-153.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.13.20035212-p23-152.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.12.20034686-p17-91-6.png,1,mild,China (Unspecified Region),1,N/A
+2020.03.12.20034686-p17-91-5.png,1,mild,China (Unspecified Region),1,N/A
+2020.03.12.20034686-p17-91-4.png,1,mild,China (Unspecified Region),1,N/A
+2020.03.12.20034686-p17-91-3.png,1,mild,China (Unspecified Region),1,N/A
+2020.03.10.20032136-p34-118_2%1.png,1,mild,China (Unspecified Region),33,N/A
+2020.03.10.20032136-p34-118_2%0.png,1,mild,China (Unspecified Region),33,N/A
+2020.03.10.20032136-p34-118_1%1.png,1,mild,China (Unspecified Region),21,N/A
+2020.03.10.20032136-p34-118_1%0.png,1,mild,China (Unspecified Region),21,N/A
+2020.03.08.20031658-p15-106.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.08.20031658-p15-105.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.08.20031658-p15-104.png,1,mild,China (Unspecified Region),N/A,N/A
+2020.03.08.20031658-p15-103.png,1,mild,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_4.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_3.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_2%2.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_2%1.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_2%0.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_1%2.png,1,severe,China (Unspecified Region),69,F
+2020.03.01.20029769-p21-73_1%1.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.03.01.20029769-p21-73_1%0.png,1,severe,China (Unspecified Region),N/A,N/A
+2020.02.28.20029025-p23-183.png,1,mild,China (Unspecified Region),N/A,N/A
+2020.02.28.20029025-p23-182.png,1,mild,China (Unspecified Region),N/A,N/A
+2020.03.03.20030775-p12-93%1.png,1,mild,"Guangdon, China",57,M
+2020.03.03.20030775-p12-93%0.png,1,mild,"Guangdon, China",57,M
+2020.03.03.20030775-p11-91.png,1,severe,"Guangdon, China",76,M
+2020.03.03.20030775-p10-88%1.png,1,severe,"Guangdon, China",57,M
+2020.03.03.20030775-p10-88%0.png,1,severe,"Guangdon, China",57,M
+2020.03.19.20038539-p10-62.png,1,severe ,"Hainan, China",50,N/A
+2020.03.19.20038539-p10-61.png,1,severe ,"Hainan, China",50,N/A
+2020.03.19.20038539-p10-60.png,1,severe ,"Hainan, China",50,N/A
+2020.03.19.20038539-p10-59.png,1,severe ,"Hainan, China",50,N/A
+2020.03.19.20038539-p10-58.png,1,severe ,"Hainan, China",50,N/A
+2020.03.19.20038539-p10-57.png,1,severe ,"Hainan, China",50,N/A
+2020.02.27.20027557-p25-137%4.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.27.20027557-p25-137%3.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.27.20027557-p25-137%2.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.27.20027557-p25-137%1.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.27.20027557-p25-137%0.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.24.20027201-p19-670.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.24.20027201-p19-669.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.22.20024927-p20-70%3.png,1,severe,"Hubei, China",64,M
+2020.02.22.20024927-p20-70%2.png,1,severe,"Hubei, China",64,M
+2020.02.22.20024927-p20-70%1.png,1,severe,"Hubei, China",60,F
+2020.02.22.20024927-p20-70%0.png,1,severe,"Hubei, China",60,F
+2020.02.22.20024927-p19-68%5.png,1,critical,"Hubei, China",72,F
+2020.02.22.20024927-p19-68%4.png,1,critical,"Hubei, China",72,F
+2020.02.22.20024927-p19-68%3.png,1,critical,"Hubei, China",72,F
+2020.02.22.20024927-p19-68%2.png,1,critical,"Hubei, China",76,F
+2020.02.22.20024927-p19-68%1.png,1,critical,"Hubei, China",76,F
+2020.02.22.20024927-p19-68%0.png,1,critical,"Hubei, China",76,F
+2020.02.22.20024927-p18-66%2.png,1,critical,"Hubei, China",63,F
+2020.02.22.20024927-p18-66%1.png,1,critical,"Hubei, China",63,F
+2020.02.22.20024927-p18-66%0.png,1,critical,"Hubei, China",63,F
+2020.02.19.20025023-p20-93%3.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.19.20025023-p20-93%2.png,1,severe,"Hubei, China",N/A,N/A
+2020.02.19.20025023-p20-93%1.png,1,moderate,"Hubei, China",N/A,N/A
+2020.02.19.20025023-p20-93%0.png,1,moderate,"Hubei, China",N/A,N/A
+2020.03.04.20026005-p12-1946%5.png,1,severe,"Hunan, China",37,N/A
+2020.03.04.20026005-p12-1946%4.png,1,severe,"Hunan, China",37,N/A
+2020.03.04.20026005-p12-1946%3.png,1,severe,"Hunan, China",37,N/A
+2020.03.04.20026005-p12-1946%2.png,1,severe,"Hunan, China",57,N/A
+2020.03.04.20026005-p12-1946%1.png,1,severe,"Hunan, China",57,N/A
+2020.03.04.20026005-p12-1946%0.png,1,severe,"Hunan, China",57,N/A
+2020.03.03.20030353-p17-106%2.png,1,severe,"Hunan, China",N/A,N/A
+2020.03.03.20030353-p17-106%1.png,1,severe,"Hunan, China",N/A,N/A
+2020.03.03.20030353-p17-106%0.png,1,severe,"Hunan, China",N/A,N/A
+2020.03.07.20031393-p7-50%3.png,1,asymptomatic,"Jingmen, Hubei, China",N/A,N/A
+2020.03.07.20031393-p7-50%2.png,1,asymptomatic,"Jingmen, Hubei, China",N/A,N/A
+2020.03.07.20031393-p7-50%1.png,1,asymptomatic,"Jingmen, Hubei, China",N/A,N/A
+2020.03.07.20031393-p7-50%0.png,1,asymptomatic,"Jingmen, Hubei, China",N/A,N/A
+2020.03.11.20033159-p12-45%3.png,1,moderate,"Qingdao, China",N/A,N/A
+2020.03.11.20033159-p12-45%2.png,1,moderate,"Qingdao, China",N/A,N/A
+2020.03.11.20033159-p12-45%1.png,1,moderate,"Qingdao, China",N/A,N/A
+2020.03.11.20033159-p12-45%0.png,1,moderate,"Qingdao, China",N/A,N/A
+2020.03.04.20030395-p27-108%8.png,1,moderate,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%7.png,1,moderate,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%6.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%5.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%4.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%3.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%2.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%1.png,1,severe,"Shanghai, China",N/A,N/A
+2020.03.04.20030395-p27-108%0.png,1,severe,"Shanghai, China",N/A,N/A
+2020.02.13.20022673-p13-77%2.png,1,severe,"Shanghai, China",N/A,N/A
+2020.02.13.20022673-p13-77%1.png,1,severe,"Shanghai, China",N/A,N/A
+2020.02.13.20022673-p13-77%0.png,1,severe,"Shanghai, China",N/A,N/A
+2020.02.17.20024018-p17-61%4.png,1,severe,"Shenzhen, China",36,F
+2020.02.17.20024018-p17-61%3.png,1,severe,"Shenzhen, China",36,F
+2020.02.17.20024018-p17-61%2.png,1,severe,"Shenzhen, China",36,F
+2020.02.17.20024018-p17-61%1.png,1,severe,"Shenzhen, China",36,F
+2020.02.17.20024018-p17-61%0.png,1,severe,"Shenzhen, China",36,F
+2020.02.11.20021493-p16-109%2.png,1,moderate,"Shenzhen, China",36,M
+2020.02.11.20021493-p16-109%1.png,1,severe,"Shenzhen, China",34,M
+2020.02.11.20021493-p16-109%0.png,1,severe,"Shenzhen, China",65,F
+2020.02.11.20022053-p12-67%3.png,1,moderate,"Sichuan, China",34,M
+2020.02.11.20022053-p12-67%2.png,1,moderate,"Sichuan, China",48,M
+2020.02.11.20022053-p12-67%1.png,1,moderate,"Sichuan, China",45,M
+2020.02.11.20022053-p12-67%0.png,1,moderate,"Sichuan, China",39,M
+2020.03.16.20035105-p6-64-4.png,1,moderate,"Wuhan, China",66,M
+2020.03.16.20035105-p6-64-3.png,1,severe,"Wuhan, China",66,M
+2020.03.16.20035105-p6-64-2.png,1,mild,"Wuhan, China",66,M
+2020.03.16.20035105-p6-64-1.png,1,moderate,"Wuhan, China",66,M
+2020.02.26.20027938-p6-80_3%1.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.26.20027938-p6-80_3%0.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.26.20027938-p6-80_2%1.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.26.20027938-p6-80_2%0.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.26.20027938-p6-80_1%1.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.26.20027938-p6-80_1%0.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%9.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%8.png,1,moderate,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%7.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%6.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%5.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%4.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%3.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%2.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%1.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p24-111%0.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%9.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%8.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%7.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%6.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%5.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%4.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%3.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%2.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%15.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%14.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%13.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%12.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%11.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%10.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%1.png,1,severe,"Wuhan, China",N/A,N/A
+2020.02.25.20021568-p23-108%0.png,1,severe,"Wuhan, China",N/A,N/A
+2020.01.24.919183-p27-135.png,1,moderate,"Wuhan, China",41,M
+2020.01.24.919183-p27-134.png,1,moderate,"Wuhan, China",41,M
+2020.01.24.919183-p27-133.png,1,moderate,"Wuhan, China",41,M
+2020.01.24.919183-p27-132.png,1,severe,"Wuhan, China",41,M
+2020.03.22.20034041-p18-92-3.png,1,severe,"Wuhan, China ",40,F
+2020.03.22.20034041-p18-92-2.png,1,severe,"Wuhan, China ",40,F
+2020.03.22.20034041-p18-92-1.png,1,severe,"Wuhan, China ",40,F
+2020.03.22.20034041-p17-80-2.png,1,severe,"Wuhan, China ",40,M
+2020.03.22.20034041-p17-80-1.png,1,severe,"Wuhan, China ",40,M
+2020.03.22.20034041-p16-66.png,1,severe,"Wuhan, China ",40,F
+2020.03.20.20037325-p23-124.png,1,mild,"Wuhan, China ",64,M
+2020.03.20.20037325-p23-123.png,1,mild,"Wuhan, China ",64,M
+2020.03.20.20037325-p23-122.png,1,mild,"Wuhan, China ",32,M
+2020.03.20.20037325-p23-121.png,1,mild,"Wuhan, China ",32,M
+2020.03.16.20036145-p19-128-4.png,1,severe,"Wuhan, China ",50,M
+2020.03.16.20036145-p19-128-3.png,1,severe,"Wuhan, China ",50,M
+2020.03.16.20036145-p19-128-2.png,1,severe,"Wuhan, China ",49,F
+2020.03.16.20036145-p19-128-1.png,1,severe,"Wuhan, China ",49,F
+2020.03.12.20027185-p8-221.png,1,severe,"Wuhan, China ",N/A,N/A
+2020.03.12.20027185-p8-218.png,1,severe,"Wuhan, China ",N/A,N/A
+2020.03.12.20027185-p8-217.png,1,severe,"Wuhan, China ",23,F
+2020.03.12.20027185-p8-216.png,1,severe,"Wuhan, China ",66,F
+2020.03.04.20031039-p23-97_2%2.png,1,severe,"Wuhan, China ",71,N/A
+2020.03.04.20031039-p23-97_2%1.png,1,severe,"Wuhan, China ",71,N/A
+2020.03.04.20031039-p23-97_2%0.png,1,severe,"Wuhan, China ",71,N/A
+2020.03.04.20031039-p23-97_1%2.png,1,severe,"Wuhan, China ",72,N/A
+2020.03.04.20031039-p23-97_1%1.png,1,severe,"Wuhan, China ",72,N/A
+2020.03.04.20031039-p23-97_1%0.png,1,severe,"Wuhan, China ",72,N/A
+2020.03.21.20040691-p18-67-8.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-7.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-5.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-4.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-3.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-2.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-67-1.png,1,moderate,"Xi'an, China ",65,M
+2020.03.21.20040691-p18-6-6.png,1,moderate,"Xi'an, China ",65,M
+2020.02.23.20026856-p17-115%5.png,1,moderate,"Zhejiang, China ",39,M
+2020.02.23.20026856-p17-115%4.png,1,moderate,"Zhejiang, China ",39,M
+2020.02.23.20026856-p17-115%3.png,1,moderate,"Zhejiang, China ",39,M
+2020.02.23.20026856-p17-115%2.png,1,moderate,"Zhejiang, China ",39,M
+2020.02.23.20026856-p17-115%1.png,1,moderate,"Zhejiang, China ",39,M
+2020.02.23.20026856-p17-115%0.png,1,moderate,"Zhejiang, China ",39,M
+Talaromyces-marneffei-infection-relapse-presenting-as-ost_2020_International-p1-12%3,1,severe,N/A,N/A,N/A
+Talaromyces-marneffei-infection-relapse-presenting-as-ost_2020_International-p1-12%2,1,severe,N/A,N/A,N/A
+Talaromyces-marneffei-infection-relapse-presenting-as-ost_2020_International-p1-12%1,1,severe,N/A,N/A,N/A
+Talaromyces-marneffei-infection-relapse-presenting-as-ost_2020_International-p1-12%0,1,severe,N/A,N/A,N/A
+Recurrence-of-positive-SARS-CoV-2-RNA-in-C_2020_International-Journal-of-Inf-p1-21%1,1,severe,N/A,N/A,N/A
+Recurrence-of-positive-SARS-CoV-2-RNA-in-C_2020_International-Journal-of-Inf-p1-21%0,1,severe,N/A,N/A,N/A
+PIIS0140673620303603%8,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%7,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%6,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%5,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%4,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%3,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%2,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%1,1,moderate,N/A,N/A,N/A
+PIIS0140673620303603%0,1,moderate,N/A,N/A,N/A
+PIIS0140673620302117_2,1,severe,N/A,N/A,N/A
+PIIS0140673620302117_1,1,severe,N/A,N/A,N/A
+PIIS0140673620301549_2,1,severe,N/A,N/A,N/A
+PIIS0140673620301549_1,1,severe,N/A,N/A,N/A
+PIIS0140673620301549_0%1,1,severe,N/A,N/A,N/A
+PIIS0140673620301549_0%0,1,severe,N/A,N/A,N/A
+Ni2020_Article_CombinationOfWesternMedicineAn-p4-13%1.png,1,moderate,N/A,N/A,N/A
+Ni2020_Article_CombinationOfWesternMedicineAn-p4-13%0.png,1,moderate,N/A,N/A,N/A
+Ni2020_Article_CombinationOfWesternMedicineAn-p3-10%1,1,moderate,N/A,N/A,N/A
+Ni2020_Article_CombinationOfWesternMedicineAn-p3-10%0,1,moderate,N/A,N/A,N/A
+med-9780198814924-chapter-17-p10-515,1,severe,N/A,46,M 
+kjr-21-e25-p1-8,1,moderate,N/A,40,F
+kjr-21-e25-p1-6,1,moderate,N/A,40,F
+kjr-21-e25-p1-14,1,moderate,N/A,40,F
+kjr-21-e25-p1-12,1,moderate,N/A,40,F
+kjr-21-e25-p1-10,1,moderate,N/A,40,F
+kjr-21-e24-p5-31,1,severe,N/A,N/A,N/A
+kjr-21-e24-p5-29,1,severe,N/A,N/A,N/A
+kjr-21-e24-p3-16,1,severe,N/A,N/A,N/A
+kjr-21-e24-p2-8,1,severe,N/A,N/A,N/A
+impact_of_covid19_infection_on_pregnancy_outcomes_and_the_risk_of_maternaltoneonatal_intrapartum_transmission_of_covid19_during_natural_birth-p8-41%5,1,pregnant,N/A,33,F 
+impact_of_covid19_infection_on_pregnancy_outcomes_and_the_risk_of_maternaltoneonatal_intrapartum_transmission_of_covid19_during_natural_birth-p8-41%3,1,pregnant,N/A,27,F 
+impact_of_covid19_infection_on_pregnancy_outcomes_and_the_risk_of_maternaltoneonatal_intrapartum_transmission_of_covid19_during_natural_birth-p8-41%1,1,pregnant,N/A,28,F 
+ehaa254-p0-63%3,1,moderate,N/A,75,F 
+ehaa254-p0-63%2,1,moderate,N/A,75,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%9,1,severe,N/A,33,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%8,1,severe,N/A,33,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%7,1,severe,N/A,31,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%6,1,severe,N/A,31,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%5,1,severe,N/A,59,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%4,1,severe,N/A,59,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%3,1,severe,N/A,45,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%2,1,severe,N/A,45,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%11,1,severe,N/A,39,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%10,1,severe,N/A,39,M
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%1,1,severe,N/A,62,F 
+Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%0,1,severe,N/A,62,F 
+bmj.m606.full-p4-22%7,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%6,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%5,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%4,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%3,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%2,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%1,1,severe,N/A,32,M 
+bmj.m606.full-p4-22%0,1,severe,N/A,32,M 
+2020.03.30.20047985-p9-56%3,1,severe,N/A,N/A,N/A
+2020.03.30.20047985-p9-56%2,1,severe,N/A,N/A,N/A
+2020.03.30.20047985-p9-56%1,1,severe,N/A,N/A,N/A
+2020.03.30.20047985-p9-56%0,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-133,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-132,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-131,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-130,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-128,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-127,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-126,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-125,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-124,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-123,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-122,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-121,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-120,1,severe,N/A,N/A,N/A
+2020.03.26.20041426-p11-119,1,severe,N/A,N/A,N/A
+2020.03.25.20043166-p17-81,1,moderate,N/A,N/A,N/A
+2020.03.25.20043166-p17-80,1,moderate,N/A,N/A,N/A
+2020.03.25.20043166-p17-79,1,moderate,N/A,N/A,N/A
+2020.03.25.20043166-p17-78,1,moderate,N/A,N/A,N/A
+2020.03.25.20037721-p27-182.png,1,severe,N/A,N/A,N/A
+2020.03.25.20037721-p27-181.png,1,severe,N/A,N/A,N/A
+2020.03.25.20037721-p27-174.png,1,severe,N/A,N/A,N/A
+2020.03.25.20037721-p27-173.png,1,severe,N/A,N/A,N/A
+2020.03.25.20037721-p27-172.png,1,severe,N/A,N/A,N/A
+2020.03.25.20037721-p27-165.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1546.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1545.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1544.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1543.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1542.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p25-1541.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-8.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-7.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-6.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-5.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-4.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-3.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-2.png,1,severe,N/A,N/A,N/A
+2020.03.22.20040782-p24-1533-1.png,1,severe,N/A,N/A,N/A
+2020.03.12.20034686-p17-91-2.png,1,severe,N/A,N/A,N/A
+2020.03.12.20034686-p17-91-1.png,1,severe,N/A,N/A,N/A
+2020.03.11.20033159-p12-45%5.png,1,moderate,N/A,N/A,N/A
+2020.03.11.20033159-p12-45%4.png,1,moderate,N/A,N/A,N/A
+2020.03.09.20033118-p20-93%3.png,1,moderate,N/A,28,M
+2020.03.09.20033118-p20-93%2.png,1,moderate,N/A,55,M
+2020.03.09.20033118-p20-93%1.png,1,moderate,N/A,41,F
+2020.03.09.20033118-p20-93%0.png,1,moderate,N/A,27,F
+2020.03.04.20031047-p12-81%3.png,1,severe,N/A,N/A,N/A
+2020.03.04.20031047-p12-81%2.png,1,severe,N/A,N/A,N/A
+2020.03.04.20031047-p12-81%1.png,1,severe,N/A,N/A,N/A
+2020.03.04.20031047-p12-81%0.png,1,severe,N/A,N/A,N/A
+2020.02.26.20026989-p34-114_2%1.png,1,severe,N/A,N/A,N/A
+2020.02.26.20026989-p34-114_2%0.png,1,severe,N/A,N/A,N/A
+2020.02.26.20026989-p34-114_1%1.png,1,severe,N/A,N/A,N/A
+2020.02.26.20026989-p34-114_1%0.png,1,severe,N/A,N/A,N/A
+2019-novel-Coronavirus-severe-adult-respiratory-dist_2020_International-Jour-p3-91,1,severe,N/A,65,F 
+2019-novel-Coronavirus-severe-adult-respiratory-dist_2020_International-Jour-p3-89%1,1,moderate,N/A,65,F 
+2019-novel-Coronavirus-severe-adult-respiratory-dist_2020_International-Jour-p3-89%0,1,moderate,N/A,65,F 
+997.png,0,N/A,N/A,N/A,N/A
+996.png,0,N/A,N/A,N/A,N/A
+969.png,0,N/A,N/A,N/A,N/A
+957.png,0,N/A,N/A,N/A,N/A
+956.png,0,N/A,N/A,N/A,N/A
+921.png,0,N/A,N/A,N/A,N/A
+91%1.jpg,0,N/A,N/A,N/A,N/A
+91%0.jpg,0,N/A,N/A,N/A,N/A
+90.jpg,0,N/A,N/A,N/A,N/A
+9.jpg,0,N/A,N/A,N/A,N/A
+890.png,0,N/A,N/A,N/A,N/A
+89%3.jpg,0,N/A,N/A,N/A,N/A
+89%2.jpg,0,N/A,N/A,N/A,N/A
+889.png,0,N/A,N/A,N/A,N/A
+887.png,0,N/A,N/A,N/A,N/A
+88.jpg,0,N/A,N/A,N/A,N/A
+86.jpg,0,N/A,N/A,N/A,N/A
+85%1.jpg,0,N/A,N/A,N/A,N/A
+85%0.jpg,0,N/A,N/A,N/A,N/A
+849.png,0,N/A,N/A,N/A,N/A
+848.png,0,N/A,N/A,N/A,N/A
+84%3.jpg,0,N/A,N/A,N/A,N/A
+84%2.jpg,0,N/A,N/A,N/A,N/A
+84%1.jpg,0,N/A,N/A,N/A,N/A
+84%0.jpg,0,N/A,N/A,N/A,N/A
+83%3.jpg,0,N/A,N/A,N/A,N/A
+83%2.jpg,0,N/A,N/A,N/A,N/A
+83%1.jpg,0,N/A,N/A,N/A,N/A
+83%0.jpg,0,N/A,N/A,N/A,N/A
+82.png,0,N/A,N/A,N/A,N/A
+82%3.jpg,0,N/A,N/A,N/A,N/A
+82%2.jpg,0,N/A,N/A,N/A,N/A
+82%1.jpg,0,N/A,N/A,N/A,N/A
+82%0.jpg,0,N/A,N/A,N/A,N/A
+81.png,0,N/A,N/A,N/A,N/A
+81%3.jpg,0,N/A,N/A,N/A,N/A
+81%2.jpg,0,N/A,N/A,N/A,N/A
+81%1.jpg,0,N/A,N/A,N/A,N/A
+81%0.jpg,0,N/A,N/A,N/A,N/A
+80%1.jpg,0,N/A,N/A,N/A,N/A
+80%0.jpg,0,N/A,N/A,N/A,N/A
+8.jpg,0,N/A,N/A,N/A,N/A
+79.jpg,0,N/A,N/A,N/A,N/A
+782.png,0,N/A,N/A,N/A,N/A
+781.png,0,N/A,N/A,N/A,N/A
+78.jpg,0,N/A,N/A,N/A,N/A
+77.jpg,0,N/A,N/A,N/A,N/A
+76%2.jpg,0,N/A,N/A,N/A,N/A
+76%1.jpg,0,N/A,N/A,N/A,N/A
+76%0.jpg,0,N/A,N/A,N/A,N/A
+754.png,0,N/A,N/A,N/A,N/A
+753.png,0,N/A,N/A,N/A,N/A
+75%1.jpg,0,N/A,N/A,N/A,N/A
+75%0.jpg,0,N/A,N/A,N/A,N/A
+74.jpg,0,N/A,N/A,N/A,N/A
+73.jpg,0,N/A,N/A,N/A,N/A
+72.jpg,0,N/A,N/A,N/A,N/A
+71%1.jpg,0,N/A,N/A,N/A,N/A
+71%0.jpg,0,N/A,N/A,N/A,N/A
+709.png,0,N/A,N/A,N/A,N/A
+706.png,0,N/A,N/A,N/A,N/A
+705.png,0,N/A,N/A,N/A,N/A
+704.png,0,N/A,N/A,N/A,N/A
+70%1.jpg,0,N/A,N/A,N/A,N/A
+70%0.jpg,0,N/A,N/A,N/A,N/A
+7.jpg,0,N/A,N/A,N/A,N/A
+69%1.jpg,0,N/A,N/A,N/A,N/A
+69%0.jpg,0,N/A,N/A,N/A,N/A
+68.jpg,0,N/A,N/A,N/A,N/A
+673.png,0,N/A,N/A,N/A,N/A
+672.png,0,N/A,N/A,N/A,N/A
+67%2.jpg,0,N/A,N/A,N/A,N/A
+67%1.jpg,0,N/A,N/A,N/A,N/A
+67%0.jpg,0,N/A,N/A,N/A,N/A
+663.png,0,N/A,N/A,N/A,N/A
+662.png,0,N/A,N/A,N/A,N/A
+661.png,0,N/A,N/A,N/A,N/A
+660.png,0,N/A,N/A,N/A,N/A
+66.jpg,0,N/A,N/A,N/A,N/A
+658.png,0,N/A,N/A,N/A,N/A
+65%4.jpg,0,N/A,N/A,N/A,N/A
+65%3.jpg,0,N/A,N/A,N/A,N/A
+65%2.jpg,0,N/A,N/A,N/A,N/A
+65%1.jpg,0,N/A,N/A,N/A,N/A
+65%0.jpg,0,N/A,N/A,N/A,N/A
+64.jpg,0,N/A,N/A,N/A,N/A
+63%7.jpg,0,N/A,N/A,N/A,N/A
+63%6.jpg,0,N/A,N/A,N/A,N/A
+63%5.jpg,0,N/A,N/A,N/A,N/A
+63%4.jpg,0,N/A,N/A,N/A,N/A
+63%3.jpg,0,N/A,N/A,N/A,N/A
+63%2.jpg,0,N/A,N/A,N/A,N/A
+63%1.jpg,0,N/A,N/A,N/A,N/A
+63%0.jpg,0,N/A,N/A,N/A,N/A
+62.jpg,0,N/A,N/A,N/A,N/A
+60.jpg,0,N/A,N/A,N/A,N/A
+6%3.jpg,0,N/A,N/A,N/A,N/A
+6%2.jpg,0,N/A,N/A,N/A,N/A
+6%1.jpg,0,N/A,N/A,N/A,N/A
+6%0.jpg,0,N/A,N/A,N/A,N/A
+592.png,0,N/A,N/A,N/A,N/A
+591.png,0,N/A,N/A,N/A,N/A
+590.png,0,N/A,N/A,N/A,N/A
+59.png,0,N/A,N/A,N/A,N/A
+59%0.jpg,0,N/A,N/A,N/A,N/A
+587.png,0,N/A,N/A,N/A,N/A
+586.png,0,N/A,N/A,N/A,N/A
+585.png,0,N/A,N/A,N/A,N/A
+584.png,0,N/A,N/A,N/A,N/A
+583.png,0,N/A,N/A,N/A,N/A
+580.png,0,N/A,N/A,N/A,N/A
+579.png,0,N/A,N/A,N/A,N/A
+578.png,0,N/A,N/A,N/A,N/A
+577.png,0,N/A,N/A,N/A,N/A
+576.png,0,N/A,N/A,N/A,N/A
+575.png,0,N/A,N/A,N/A,N/A
+57%0.jpg,0,N/A,N/A,N/A,N/A
+56%1.jpg,0,N/A,N/A,N/A,N/A
+56%0.jpg,0,N/A,N/A,N/A,N/A
+54%3.jpg,0,N/A,N/A,N/A,N/A
+54%2.jpg,0,N/A,N/A,N/A,N/A
+54%1.jpg,0,N/A,N/A,N/A,N/A
+54%0.jpg,0,N/A,N/A,N/A,N/A
+53.jpg,0,N/A,N/A,N/A,N/A
+52%1.jpg,0,N/A,N/A,N/A,N/A
+52%0.jpg,0,N/A,N/A,N/A,N/A
+51%3.jpg,0,N/A,N/A,N/A,N/A
+51%2.jpg,0,N/A,N/A,N/A,N/A
+51%1.jpg,0,N/A,N/A,N/A,N/A
+51%0.jpg,0,N/A,N/A,N/A,N/A
+50.jpg,0,N/A,N/A,N/A,N/A
+5%7.jpg,0,N/A,N/A,N/A,N/A
+5%6.jpg,0,N/A,N/A,N/A,N/A
+5%5.jpg,0,N/A,N/A,N/A,N/A
+5%4.jpg,0,N/A,N/A,N/A,N/A
+5%3.jpg,0,N/A,N/A,N/A,N/A
+5%2.jpg,0,N/A,N/A,N/A,N/A
+5%1.jpg,0,N/A,N/A,N/A,N/A
+5%0.jpg,0,N/A,N/A,N/A,N/A
+49%1.jpg,0,N/A,N/A,N/A,N/A
+49%0.jpg,0,N/A,N/A,N/A,N/A
+487.png,0,N/A,N/A,N/A,N/A
+486.png,0,N/A,N/A,N/A,N/A
+48.jpg,0,N/A,N/A,N/A,N/A
+47.jpg,0,N/A,N/A,N/A,N/A
+46.jpg,0,N/A,N/A,N/A,N/A
+452.png,0,N/A,N/A,N/A,N/A
+45.jpg,0,N/A,N/A,N/A,N/A
+44.png,0,N/A,N/A,N/A,N/A
+44%1.jpg,0,N/A,N/A,N/A,N/A
+44%0.jpg,0,N/A,N/A,N/A,N/A
+43.png,0,N/A,N/A,N/A,N/A
+43%3.jpg,0,N/A,N/A,N/A,N/A
+43%2.jpg,0,N/A,N/A,N/A,N/A
+43%1.jpg,0,N/A,N/A,N/A,N/A
+42.jpg,0,N/A,N/A,N/A,N/A
+414.png,0,N/A,N/A,N/A,N/A
+413.png,0,N/A,N/A,N/A,N/A
+412.png,0,N/A,N/A,N/A,N/A
+41.jpg,0,N/A,N/A,N/A,N/A
+40%1.jpg,0,N/A,N/A,N/A,N/A
+40%0.jpg,0,N/A,N/A,N/A,N/A
+4%7.jpg,0,N/A,N/A,N/A,N/A
+4%5.jpg,0,N/A,N/A,N/A,N/A
+4%3.jpg,0,N/A,N/A,N/A,N/A
+4%1.jpg,0,N/A,N/A,N/A,N/A
+39%8.jpg,0,N/A,N/A,N/A,N/A
+39%7.jpg,0,N/A,N/A,N/A,N/A
+39%6.jpg,0,N/A,N/A,N/A,N/A
+39%5.jpg,0,N/A,N/A,N/A,N/A
+39%4.jpg,0,N/A,N/A,N/A,N/A
+39%3.jpg,0,N/A,N/A,N/A,N/A
+39%2.jpg,0,N/A,N/A,N/A,N/A
+39%1.jpg,0,N/A,N/A,N/A,N/A
+39%0.jpg,0,N/A,N/A,N/A,N/A
+385.png,0,N/A,N/A,N/A,N/A
+383.png,0,N/A,N/A,N/A,N/A
+382.png,0,N/A,N/A,N/A,N/A
+381.png,0,N/A,N/A,N/A,N/A
+38%2.jpg,0,N/A,N/A,N/A,N/A
+38%1.jpg,0,N/A,N/A,N/A,N/A
+38%0.jpg,0,N/A,N/A,N/A,N/A
+378.png,0,N/A,N/A,N/A,N/A
+37%4.jpg,0,N/A,N/A,N/A,N/A
+37%3.jpg,0,N/A,N/A,N/A,N/A
+37%2.jpg,0,N/A,N/A,N/A,N/A
+37%1.jpg,0,N/A,N/A,N/A,N/A
+37%0.jpg,0,N/A,N/A,N/A,N/A
+361.png,0,N/A,N/A,N/A,N/A
+36%1.jpg,0,N/A,N/A,N/A,N/A
+36%0.jpg,0,N/A,N/A,N/A,N/A
+354.png,0,N/A,N/A,N/A,N/A
+35%2.jpg,0,N/A,N/A,N/A,N/A
+35%1.jpg,0,N/A,N/A,N/A,N/A
+35%0.jpg,0,N/A,N/A,N/A,N/A
+34.jpg,0,N/A,N/A,N/A,N/A
+33.png,0,N/A,N/A,N/A,N/A
+33%1.jpg,0,N/A,N/A,N/A,N/A
+33%0.jpg,0,N/A,N/A,N/A,N/A
+32%1.jpg,0,N/A,N/A,N/A,N/A
+32%0.jpg,0,N/A,N/A,N/A,N/A
+31.jpg,0,N/A,N/A,N/A,N/A
+30%5.jpg,0,N/A,N/A,N/A,N/A
+30%4.jpg,0,N/A,N/A,N/A,N/A
+30%3.jpg,0,N/A,N/A,N/A,N/A
+30%2.jpg,0,N/A,N/A,N/A,N/A
+30%1.jpg,0,N/A,N/A,N/A,N/A
+30%0.jpg,0,N/A,N/A,N/A,N/A
+3.jpg,0,N/A,N/A,N/A,N/A
+294.png,0,N/A,N/A,N/A,N/A
+29%3.jpg,0,N/A,N/A,N/A,N/A
+29%2.jpg,0,N/A,N/A,N/A,N/A
+29%1.jpg,0,N/A,N/A,N/A,N/A
+29%0.jpg,0,N/A,N/A,N/A,N/A
+28.jpg,0,N/A,N/A,N/A,N/A
+27.jpg,0,N/A,N/A,N/A,N/A
+26.png,0,N/A,N/A,N/A,N/A
+26%3.jpg,0,N/A,N/A,N/A,N/A
+26%2.jpg,0,N/A,N/A,N/A,N/A
+26%1.jpg,0,N/A,N/A,N/A,N/A
+26%0.jpg,0,N/A,N/A,N/A,N/A
+25.png,0,N/A,N/A,N/A,N/A
+25%3.jpg,0,N/A,N/A,N/A,N/A
+25%2.jpg,0,N/A,N/A,N/A,N/A
+25%1.jpg,0,N/A,N/A,N/A,N/A
+25%0.jpg,0,N/A,N/A,N/A,N/A
+24.png,0,N/A,N/A,N/A,N/A
+2341.png,0,N/A,N/A,N/A,N/A
+23.png,0,N/A,N/A,N/A,N/A
+227.png,0,N/A,N/A,N/A,N/A
+226.png,0,N/A,N/A,N/A,N/A
+2237.png,0,N/A,N/A,N/A,N/A
+22%1.jpg,0,N/A,N/A,N/A,N/A
+22%0.jpg,0,N/A,N/A,N/A,N/A
+2145.png,0,N/A,N/A,N/A,N/A
+2144.png,0,N/A,N/A,N/A,N/A
+2143.png,0,N/A,N/A,N/A,N/A
+2142.png,0,N/A,N/A,N/A,N/A
+2141.png,0,N/A,N/A,N/A,N/A
+2140.png,0,N/A,N/A,N/A,N/A
+2139.png,0,N/A,N/A,N/A,N/A
+2138.png,0,N/A,N/A,N/A,N/A
+2108.png,0,N/A,N/A,N/A,N/A
+21%1.jpg,0,N/A,N/A,N/A,N/A
+21%0.jpg,0,N/A,N/A,N/A,N/A
+2041.png,0,N/A,N/A,N/A,N/A
+2040.png,0,N/A,N/A,N/A,N/A
+2039.png,0,N/A,N/A,N/A,N/A
+2007.png,0,N/A,N/A,N/A,N/A
+20.jpg,0,N/A,N/A,N/A,N/A
+2%3.jpg,0,N/A,N/A,N/A,N/A
+2%2.jpg,0,N/A,N/A,N/A,N/A
+2%1.jpg,0,N/A,N/A,N/A,N/A
+2%0.jpg,0,N/A,N/A,N/A,N/A
+1952.png,0,N/A,N/A,N/A,N/A
+1924.png,0,N/A,N/A,N/A,N/A
+1923.png,0,N/A,N/A,N/A,N/A
+1922.png,0,N/A,N/A,N/A,N/A
+1921.png,0,N/A,N/A,N/A,N/A
+1920.png,0,N/A,N/A,N/A,N/A
+1919.png,0,N/A,N/A,N/A,N/A
+19%1.jpg,0,N/A,N/A,N/A,N/A
+19%0.jpg,0,N/A,N/A,N/A,N/A
+1889.png,0,N/A,N/A,N/A,N/A
+1888.png,0,N/A,N/A,N/A,N/A
+1877.png,0,N/A,N/A,N/A,N/A
+1876.png,0,N/A,N/A,N/A,N/A
+1868.png,0,N/A,N/A,N/A,N/A
+1859.png,0,N/A,N/A,N/A,N/A
+1858.png,0,N/A,N/A,N/A,N/A
+1857.png,0,N/A,N/A,N/A,N/A
+1846.png,0,N/A,N/A,N/A,N/A
+1845.png,0,N/A,N/A,N/A,N/A
+1814.png,0,N/A,N/A,N/A,N/A
+18%3.jpg,0,N/A,N/A,N/A,N/A
+18%2.jpg,0,N/A,N/A,N/A,N/A
+18%1.jpg,0,N/A,N/A,N/A,N/A
+18%0.jpg,0,N/A,N/A,N/A,N/A
+177.png,0,N/A,N/A,N/A,N/A
+176.png,0,N/A,N/A,N/A,N/A
+174.png,0,N/A,N/A,N/A,N/A
+171.png,0,N/A,N/A,N/A,N/A
+1702.png,0,N/A,N/A,N/A,N/A
+17%1.jpg,0,N/A,N/A,N/A,N/A
+17%0.jpg,0,N/A,N/A,N/A,N/A
+167.png,0,N/A,N/A,N/A,N/A
+166.png,0,N/A,N/A,N/A,N/A
+1638.png,0,N/A,N/A,N/A,N/A
+16.jpg,0,N/A,N/A,N/A,N/A
+158.png,0,N/A,N/A,N/A,N/A
+1577.png,0,N/A,N/A,N/A,N/A
+1576.png,0,N/A,N/A,N/A,N/A
+1575.png,0,N/A,N/A,N/A,N/A
+1562.png,0,N/A,N/A,N/A,N/A
+1561.png,0,N/A,N/A,N/A,N/A
+1501.png,0,N/A,N/A,N/A,N/A
+1500.png,0,N/A,N/A,N/A,N/A
+15.png,0,N/A,N/A,N/A,N/A
+15%3.jpg,0,N/A,N/A,N/A,N/A
+15%2.jpg,0,N/A,N/A,N/A,N/A
+15%1.jpg,0,N/A,N/A,N/A,N/A
+15%0.jpg,0,N/A,N/A,N/A,N/A
+1499.png,0,N/A,N/A,N/A,N/A
+1498.png,0,N/A,N/A,N/A,N/A
+1497.png,0,N/A,N/A,N/A,N/A
+1463.png,0,N/A,N/A,N/A,N/A
+1428.png,0,N/A,N/A,N/A,N/A
+14.png,0,N/A,N/A,N/A,N/A
+14%3.jpg,0,N/A,N/A,N/A,N/A
+14%2.jpg,0,N/A,N/A,N/A,N/A
+14%1.jpg,0,N/A,N/A,N/A,N/A
+14%0.jpg,0,N/A,N/A,N/A,N/A
+1336.png,0,N/A,N/A,N/A,N/A
+1335.png,0,N/A,N/A,N/A,N/A
+1333.png,0,N/A,N/A,N/A,N/A
+1332.png,0,N/A,N/A,N/A,N/A
+1331.png,0,N/A,N/A,N/A,N/A
+1330.png,0,N/A,N/A,N/A,N/A
+1328.png,0,N/A,N/A,N/A,N/A
+1313.png,0,N/A,N/A,N/A,N/A
+1312.png,0,N/A,N/A,N/A,N/A
+1310.png,0,N/A,N/A,N/A,N/A
+1309.png,0,N/A,N/A,N/A,N/A
+1308.png,0,N/A,N/A,N/A,N/A
+1307.png,0,N/A,N/A,N/A,N/A
+1306.png,0,N/A,N/A,N/A,N/A
+1305.png,0,N/A,N/A,N/A,N/A
+13.jpg,0,N/A,N/A,N/A,N/A
+1298.png,0,N/A,N/A,N/A,N/A
+1297.png,0,N/A,N/A,N/A,N/A
+1277.png,0,N/A,N/A,N/A,N/A
+1264.png,0,N/A,N/A,N/A,N/A
+1263.png,0,N/A,N/A,N/A,N/A
+1262.png,0,N/A,N/A,N/A,N/A
+1261.png,0,N/A,N/A,N/A,N/A
+1240.png,0,N/A,N/A,N/A,N/A
+1239.png,0,N/A,N/A,N/A,N/A
+1238.png,0,N/A,N/A,N/A,N/A
+1221.png,0,N/A,N/A,N/A,N/A
+1218.png,0,N/A,N/A,N/A,N/A
+1217.png,0,N/A,N/A,N/A,N/A
+1216.png,0,N/A,N/A,N/A,N/A
+1215.png,0,N/A,N/A,N/A,N/A
+1214.png,0,N/A,N/A,N/A,N/A
+1213.png,0,N/A,N/A,N/A,N/A
+1212.png,0,N/A,N/A,N/A,N/A
+1211.png,0,N/A,N/A,N/A,N/A
+1210.png,0,N/A,N/A,N/A,N/A
+120.png,0,N/A,N/A,N/A,N/A
+12.jpg,0,N/A,N/A,N/A,N/A
+118.png,0,N/A,N/A,N/A,N/A
+117.png,0,N/A,N/A,N/A,N/A
+1164.png,0,N/A,N/A,N/A,N/A
+116.png,0,N/A,N/A,N/A,N/A
+115.png,0,N/A,N/A,N/A,N/A
+114.png,0,N/A,N/A,N/A,N/A
+1124.png,0,N/A,N/A,N/A,N/A
+1123.png,0,N/A,N/A,N/A,N/A
+112.png,0,N/A,N/A,N/A,N/A
+1115.png,0,N/A,N/A,N/A,N/A
+1101.png,0,N/A,N/A,N/A,N/A
+1100.png,0,N/A,N/A,N/A,N/A
+11%2.jpg,0,N/A,N/A,N/A,N/A
+11%1.jpg,0,N/A,N/A,N/A,N/A
+11%0.jpg,0,N/A,N/A,N/A,N/A
+1099.png,0,N/A,N/A,N/A,N/A
+1098.png,0,N/A,N/A,N/A,N/A
+1094.png,0,N/A,N/A,N/A,N/A
+1093.png,0,N/A,N/A,N/A,N/A
+1079.png,0,N/A,N/A,N/A,N/A
+1078.png,0,N/A,N/A,N/A,N/A
+1072.png,0,N/A,N/A,N/A,N/A
+1071.png,0,N/A,N/A,N/A,N/A
+1070.png,0,N/A,N/A,N/A,N/A
+1065.png,0,N/A,N/A,N/A,N/A
+1062.png,0,N/A,N/A,N/A,N/A
+1061.png,0,N/A,N/A,N/A,N/A
+1060.png,0,N/A,N/A,N/A,N/A
+1059.png,0,N/A,N/A,N/A,N/A
+1058.png,0,N/A,N/A,N/A,N/A
+1050.png,0,N/A,N/A,N/A,N/A
+1049.png,0,N/A,N/A,N/A,N/A
+1048.png,0,N/A,N/A,N/A,N/A
+1047.png,0,N/A,N/A,N/A,N/A
+1046.png,0,N/A,N/A,N/A,N/A
+104.png,0,N/A,N/A,N/A,N/A
+1030.png,0,N/A,N/A,N/A,N/A
+103.png,0,N/A,N/A,N/A,N/A
+1029.png,0,N/A,N/A,N/A,N/A
+102.png,0,N/A,N/A,N/A,N/A
+10%2.jpg,0,N/A,N/A,N/A,N/A
+10%1.jpg,0,N/A,N/A,N/A,N/A
+10%0.jpg,0,N/A,N/A,N/A,N/A
+1%2.jpg,0,N/A,N/A,N/A,N/A
+1%1.jpg,0,N/A,N/A,N/A,N/A
+1%0.jpg,0,N/A,N/A,N/A,N/A
+0.jpg,0,N/A,N/A,N/A,N/A

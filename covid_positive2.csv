@@ -1,0 +1,350 @@
+Location,Severity,Age,Gender
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Severe,75.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Asymptomatic,76.0 y/o,Male
+"""Diamond Princess"" Cruise Ship",Asymptomatic,70.0 y/o,Female
+"""Diamond Princess"" Cruise Ship",Asymptomatic,73.0 y/o,Female
+"""Diamond Princess"" Cruise Ship",Asymptomatic,73.0 y/o,Female
+"Beijing, China",Mild,NaN,
+"Beijing, China",Mild,NaN,
+"Beijing, China",Critical,44.0 y/o,Male
+"Beijing, China",Severe,65.0 y/o,Male
+"Beijing, China",Mild,37.0 y/o,Male
+"Beijing, China",Mild,44.0 y/o,Female
+"Beijing, China",Absorption stage,50.0 y/o,Male
+"Beijing, China",Absorption stage,50.0 y/o,Male
+"Beijing, China",Consolidation stage,50.0 y/o,Male
+"Beijing, China",Consolidation stage,50.0 y/o,Male
+"Beijing, China",Consolidation stage,50.0 y/o,Male
+"Beijing, China",Consolidation stage,50.0 y/o,Male
+"Beijing, China",Early stage,50.0 y/o,Male
+"Beijing, China",Early stage,50.0 y/o,Male
+"Beijing, China",Dissipation stage,50.0 y/o,Male
+"Beijing, China",Dissipation stage,50.0 y/o,Male
+"Beijing, China",Dissipation stage,50.0 y/o,Male
+"Beijing, China",Dissipation stage,50.0 y/o,Male
+"Beijing, China",Absorption stage,50.0 y/o,Male
+"Beijing, China",Absorption stage,50.0 y/o,Male
+"Beijing, China",Early stage,50.0 y/o,Male
+"Beijing, China",Early stage,50.0 y/o,Male
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+"Changsha, China",Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Mild,1.0 y/o,
+China (Unspecified Region),Mild,1.0 y/o,
+China (Unspecified Region),Mild,1.0 y/o,
+China (Unspecified Region),Mild,1.0 y/o,
+China (Unspecified Region),Mild,33.0 y/o,
+China (Unspecified Region),Mild,33.0 y/o,
+China (Unspecified Region),Mild,21.0 y/o,
+China (Unspecified Region),Mild,21.0 y/o,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Mild,NaN,
+China (Unspecified Region),Mild,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,69.0 y/o,Female
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Severe,NaN,
+China (Unspecified Region),Mild,NaN,
+China (Unspecified Region),Mild,NaN,
+"Guangdon, China",Mild,57.0 y/o,Male
+"Guangdon, China",Mild,57.0 y/o,Male
+"Guangdon, China",Severe,76.0 y/o,Male
+"Guangdon, China",Severe,57.0 y/o,Male
+"Guangdon, China",Severe,57.0 y/o,Male
+"Hainan, China",Severe,50.0 y/o,
+"Hainan, China",Severe,50.0 y/o,
+"Hainan, China",Severe,50.0 y/o,
+"Hainan, China",Severe,50.0 y/o,
+"Hainan, China",Severe,50.0 y/o,
+"Hainan, China",Severe,50.0 y/o,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,64.0 y/o,Male
+"Hubei, China",Severe,64.0 y/o,Male
+"Hubei, China",Severe,60.0 y/o,Female
+"Hubei, China",Severe,60.0 y/o,Female
+"Hubei, China",Critical,72.0 y/o,Female
+"Hubei, China",Critical,72.0 y/o,Female
+"Hubei, China",Critical,72.0 y/o,Female
+"Hubei, China",Critical,76.0 y/o,Female
+"Hubei, China",Critical,76.0 y/o,Female
+"Hubei, China",Critical,76.0 y/o,Female
+"Hubei, China",Critical,63.0 y/o,Female
+"Hubei, China",Critical,63.0 y/o,Female
+"Hubei, China",Critical,63.0 y/o,Female
+"Hubei, China",Severe,NaN,
+"Hubei, China",Severe,NaN,
+"Hubei, China",Moderate,NaN,
+"Hubei, China",Moderate,NaN,
+"Hunan, China",Severe,37.0 y/o,
+"Hunan, China",Severe,37.0 y/o,
+"Hunan, China",Severe,37.0 y/o,
+"Hunan, China",Severe,57.0 y/o,
+"Hunan, China",Severe,57.0 y/o,
+"Hunan, China",Severe,57.0 y/o,
+"Hunan, China",Severe,NaN,
+"Hunan, China",Severe,NaN,
+"Hunan, China",Severe,NaN,
+"Jingmen, Hubei, China",Asymptomatic,NaN,
+"Jingmen, Hubei, China",Asymptomatic,NaN,
+"Jingmen, Hubei, China",Asymptomatic,NaN,
+"Jingmen, Hubei, China",Asymptomatic,NaN,
+"Qingdao, China",Moderate,NaN,
+"Qingdao, China",Moderate,NaN,
+"Qingdao, China",Moderate,NaN,
+"Qingdao, China",Moderate,NaN,
+"Shanghai, China",Moderate,NaN,
+"Shanghai, China",Moderate,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shanghai, China",Severe,NaN,
+"Shenzhen, China",Severe,36.0 y/o,Female
+"Shenzhen, China",Severe,36.0 y/o,Female
+"Shenzhen, China",Severe,36.0 y/o,Female
+"Shenzhen, China",Severe,36.0 y/o,Female
+"Shenzhen, China",Severe,36.0 y/o,Female
+"Shenzhen, China",Moderate,36.0 y/o,Male
+"Shenzhen, China",Severe,34.0 y/o,Male
+"Shenzhen, China",Severe,65.0 y/o,Female
+"Sichuan, China",Moderate,34.0 y/o,Male
+"Sichuan, China",Moderate,48.0 y/o,Male
+"Sichuan, China",Moderate,45.0 y/o,Male
+"Sichuan, China",Moderate,39.0 y/o,Male
+"Wuhan, China",Moderate,66.0 y/o,Male
+"Wuhan, China",Severe,66.0 y/o,Male
+"Wuhan, China",Mild,66.0 y/o,Male
+"Wuhan, China",Moderate,66.0 y/o,Male
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Moderate,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Moderate,41.0 y/o,Male
+"Wuhan, China",Moderate,41.0 y/o,Male
+"Wuhan, China",Moderate,41.0 y/o,Male
+"Wuhan, China",Severe,41.0 y/o,Male
+"Wuhan, China",Severe,40.0 y/o,Female
+"Wuhan, China",Severe,40.0 y/o,Female
+"Wuhan, China",Severe,40.0 y/o,Female
+"Wuhan, China",Severe,40.0 y/o,Male
+"Wuhan, China",Severe,40.0 y/o,Male
+"Wuhan, China",Severe,40.0 y/o,Female
+"Wuhan, China",Mild,64.0 y/o,Male
+"Wuhan, China",Mild,64.0 y/o,Male
+"Wuhan, China",Mild,32.0 y/o,Male
+"Wuhan, China",Mild,32.0 y/o,Male
+"Wuhan, China",Severe,50.0 y/o,Male
+"Wuhan, China",Severe,50.0 y/o,Male
+"Wuhan, China",Severe,49.0 y/o,Female
+"Wuhan, China",Severe,49.0 y/o,Female
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,NaN,
+"Wuhan, China",Severe,23.0 y/o,Female
+"Wuhan, China",Severe,66.0 y/o,Female
+"Wuhan, China",Severe,71.0 y/o,
+"Wuhan, China",Severe,71.0 y/o,
+"Wuhan, China",Severe,71.0 y/o,
+"Wuhan, China",Severe,72.0 y/o,
+"Wuhan, China",Severe,72.0 y/o,
+"Wuhan, China",Severe,72.0 y/o,
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Xi'an, China",Moderate,65.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+"Zhejiang, China",Moderate,39.0 y/o,Male
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Severe,46.0 y/o,Male
+,Moderate,40.0 y/o,Female
+,Moderate,40.0 y/o,Female
+,Moderate,40.0 y/o,Female
+,Moderate,40.0 y/o,Female
+,Moderate,40.0 y/o,Female
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Pregnant,33.0 y/o,Female
+,Pregnant,27.0 y/o,Female
+,Pregnant,28.0 y/o,Female
+,Moderate,75.0 y/o,Female
+,Moderate,75.0 y/o,Female
+,Severe,33.0 y/o,Male
+,Severe,33.0 y/o,Male
+,Severe,31.0 y/o,Male
+,Severe,31.0 y/o,Male
+,Severe,59.0 y/o,Female
+,Severe,59.0 y/o,Female
+,Severe,45.0 y/o,Female
+,Severe,45.0 y/o,Female
+,Severe,39.0 y/o,Male
+,Severe,39.0 y/o,Male
+,Severe,62.0 y/o,Female
+,Severe,62.0 y/o,Female
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,32.0 y/o,Male
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Moderate,NaN,
+,Moderate,NaN,
+,Moderate,28.0 y/o,Male
+,Moderate,55.0 y/o,Male
+,Moderate,41.0 y/o,Female
+,Moderate,27.0 y/o,Female
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,NaN,
+,Severe,65.0 y/o,Female
+,Moderate,65.0 y/o,Female
+,Moderate,65.0 y/o,Female
